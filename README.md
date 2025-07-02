@@ -37,6 +37,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration, please contact:
 
-**Hao Wu**
+**Dr. Hao Wu**
 Huazhong University of Science and Technology
 Email: \[[wuhaoboom@hust.edu.cn](mailto:wuhaoboom@hust.edu.cn)]
