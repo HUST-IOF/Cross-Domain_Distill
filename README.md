@@ -12,7 +12,7 @@ This project presents an ultra-lightweight, depthwise separable convolutional ne
 Key contributions:
 - A compact 3-layer DSCNN model with only **4,141 parameters** optimized for resource-constrained platforms.
 - A **physically-guided distillation framework** integrating frequency-domain priors into time-domain learning.
-- An FPGA implementation using **shift-add quantization**, achieving **13,494 samples/sec** processing rate over **168.68 km** sensing fiber on a Xilinx ZCU15EG.
+- An FPGA implementation using **shift-add quantization**, achieving **13,494 samples/sec** processing rate over **168.68 km** sensing fiber.
 - Experimental results demonstrating **95.72% accuracy** under unseen environmental conditions.
 
 ## Repository content
